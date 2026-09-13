@@ -1,1 +1,4 @@
 Este es nuestro archivo de trabajo colaborativo.
+
+Iván realizó una modificación desde su rama de trabajo.
+Esta modificación será enviada mediante un Pull Request.
